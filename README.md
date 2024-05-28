@@ -5,9 +5,6 @@
 
 <br><br>
 
-## 팀 이름: 창성
-
-
 ## 개발 도구 🛠️
 ### - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ### - ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
