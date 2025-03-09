@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/05f55ac5-242f-4875-9ccc-a7fdd1694c9f)# 2D 픽셀 멀티 로그라이크
+# 2D 픽셀 멀티 로그라이크
 
 ## 개요
 
@@ -69,13 +69,21 @@
 
 ## 기획 사진 🖥️
 
+
 <img src="https://github.com/user-attachments/assets/d448d185-3b0b-4cfa-b57f-b129b2d595d2" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/c30f1cd2-dc9a-4bd7-aacc-323b72e306c2" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/e04f981e-9c8a-4333-b6c8-ea74c1bc3f09" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/139c81f7-abe3-4d72-b10e-add732fef570" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/ff644415-f320-4053-8dd1-1248362e42a1" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/7971dca9-702d-435d-b9dd-1fa1a315f26f" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/64a010f0-f5d8-4554-85e8-f538fd20f59a" width="600px" height="300px"><br>
+<br>
 <img src="https://github.com/user-attachments/assets/8e7eaa1e-adf5-4268-845c-040c829be1df" width="600px" height="300px"><br>
 
 
