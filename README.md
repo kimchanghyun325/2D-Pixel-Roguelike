@@ -1,4 +1,20 @@
-# 2D 픽셀 멀티 로그라이크
+![image](https://github.com/user-attachments/assets/05f55ac5-242f-4875-9ccc-a7fdd1694c9f)# 2D 픽셀 멀티 로그라이크
+
+## 개요
+
+캡스톤디자인 과목으로 진행했습니다. 
+
+5인개발 진행했고 팀장으로 활동했습니다.
+
+게임 기획을 총괄 담당했습니다.
+
+팀장으로써 개발 일정 관리 및 팀원 커뮤니케이션 담당도 진행했습니다.
+
+게임 기획으로는 맵 컨셉, ui, 무기, 캐릭터, 스킬 기획 등 진행했고 데이터 또한 엑셀로 정리해서 넘겼습니다.
+
+이 활동을 통해서 게임 개발의 과정을 이해하고 실천했으며 실제적인 경험을 쌓았습니다.
+
+또한, PM으로써의 경험도 쌓게 되었습니다.
 
 ## 게임 기획
 
@@ -49,6 +65,20 @@
 
 ### 7. 보스
 <img src="https://github.com/akstjd31/2D_PixelRPG/assets/18045821/545da7c6-9a12-4c91-9317-ce5fbfeab7d6.png" width="600px" height="300px"><br>
+
+
+## 기획 사진 🖥️
+
+<img src="https://github.com/user-attachments/assets/d448d185-3b0b-4cfa-b57f-b129b2d595d2" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/c30f1cd2-dc9a-4bd7-aacc-323b72e306c2" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/e04f981e-9c8a-4333-b6c8-ea74c1bc3f09" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/139c81f7-abe3-4d72-b10e-add732fef570" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/ff644415-f320-4053-8dd1-1248362e42a1" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/7971dca9-702d-435d-b9dd-1fa1a315f26f" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/64a010f0-f5d8-4554-85e8-f538fd20f59a" width="600px" height="300px"><br>
+<img src="https://github.com/user-attachments/assets/8e7eaa1e-adf5-4268-845c-040c829be1df" width="600px" height="300px"><br>
+
+
 
 <br><br>
 
